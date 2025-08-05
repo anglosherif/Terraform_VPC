@@ -42,7 +42,6 @@ All resources were consistently tagged (e.g., Name, Environment, etc.) for clari
 Terraform v1.12.2
 
 AWS Free Tier (EC2, VPC, IGW, NAT, etc.)
-![WhatsApp Image 2025-08-05 at 22 12 37 (1)](https://github.com/user-attachments/assets/0c9fc6a4-41fc-4efe-bc7b-5f29fd659ba2)
 
 Visual Studio Code (for editing)
 
@@ -52,5 +51,6 @@ This project demonstrates my ability to:
 ✅ Design secure and scalable cloud network architectures
 ✅ Automate infrastructure using Terraform
 
+![WhatsApp Image 2025-08-05 at 22 12 37 (1)](https://github.com/user-attachments/assets/8cdb8024-9f72-48ba-ab70-8e5d649f9855)
 
 
