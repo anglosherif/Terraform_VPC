@@ -24,6 +24,6 @@ Fully free-tier eligible (as long as it's used responsibly — destroy when done
 terraform init
 terraform plan
 terraform apply
-![WhatsApp Image 2025-08-05 at 22 12 37 (1)](https://github.com/user-attachments/assets/b95c894f-89ec-4f02-ad92-0c179b7b0291)
 
+![WhatsApp Image 2025-08-05 at 22 12 37 (1)](https://github.com/user-attachments/assets/0cf98da1-03c7-47b1-a943-c3584296ef61)
 
