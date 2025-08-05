@@ -25,5 +25,3 @@ terraform init
 terraform plan
 terraform apply
 
-![WhatsApp Image 2025-08-05 at 22 12 37 (1)](https://github.com/user-attachments/assets/0cf98da1-03c7-47b1-a943-c3584296ef61)
-
